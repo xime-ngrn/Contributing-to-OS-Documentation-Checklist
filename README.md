@@ -3,32 +3,32 @@
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
   - [ ] Is there a code of conduct established for contributors?
-  - [ ] Are clear guidelines provided for first-time contributors?
+  - [ X ] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
   - [ ] Does the documentation have a logical and easily navigable structure?
-  - [ ] Is a table of contents offered for quick reference?
-  - [ ] Are there clear and relevant examples in the documentation?
+  - [ X ] Is a table of contents offered for quick reference?
+  - [ X ] Are there clear and relevant examples in the documentation?
 
 - **Feedback and Improvement**
-  - [ ] Does the documentation have an option for adding feedback or comments?
+  - [ X ] Does the documentation have an option for adding feedback or comments?
   - [ ] Is there a way to gather metrics to measure the quality of the documentation?
   - [ ] Are community reviews and improvements of the documentation encouraged?
 
 - **Accessibility and Search**
-  - [ ] Is the documentation easily searchable?
+  - [ X ] Is the documentation easily searchable?
   - [ ] Are alternative formats of the documentation provided (like downloadable PDF, offline version)?
-  - [ ] Is the documentation optimized for mobile devices and different browsers?
+  - [ X ] Is the documentation optimized for mobile devices and different browsers?
 
 - **Updating and Maintenance**
   - [ ] Is there an established process to keep the documentation up-to-date?
-  - [ ] Are community members encouraged to report outdated information or errors?
+  - [ X ] Are community members encouraged to report outdated information or errors?
   - [ ] Are periodic reviews of the documentation done to check its relevance and accuracy?
 
 - **Resources and Tools**
-  - [ ] Are relevant tools and resources mentioned and linked in the documentation?
-  - [ ] Are style guides or templates available for contributors?
-  - [ ] Is a guide provided on how to set up the local environment for documentation, if necessary?
+  - [ X ] Are relevant tools and resources mentioned and linked in the documentation?
+  - [ X ] Are style guides or templates available for contributors?
+  - [ X ] Is a guide provided on how to set up the local environment for documentation, if necessary?
 
 - **Internationalization and Localization**
   - [ ] Is the documentation available in multiple languages?
